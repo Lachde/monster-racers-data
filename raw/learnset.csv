@@ -1,4 +1,4 @@
-﻿monster_id,base_slot_1,base_slot_2,rank_1_slot_1,rank_1_slot_2,rank_1_slot_3,rank_1_slot_4,rank_1_slot_5,rank_2_slot_1,rank_2_slot_2,rank_2_slot_3,rank_2_slot_4,rank_2_slot_5,rank_3_slot_1,rank_3_slot_2,rank_3_slot_3,rank_3_slot_4
+﻿monster_id,base_slot_1,base_slot_2,rank_1_slot_1_id,rank_1_slot_2_id,rank_1_slot_3_id,rank_1_slot_4_id,rank_1_slot_5_id,rank_2_slot_1_id,rank_2_slot_2_id,rank_2_slot_3_id,rank_2_slot_4_id,rank_2_slot_5_id,rank_3_slot_1_id,rank_3_slot_2_id,rank_3_slot_3_id,rank_3_slot_4_id
 0,7,4,0,104,41,112,120,129,8,40,42,1,130,79,119,9
 1,16,54,106,3,27,45,66,129,17,55,107,105,130,56,95,18
 2,10,81,4,99,28,57,128,129,11,48,82,58,130,59,93,12
