@@ -1,0 +1,152 @@
+﻿id,name,pocket,category,in_shop,factor,purchase_cost,flavour_text
+0,Small Cracker,0,0,0,1,200,Increases monster's Will by 1.
+1,Cracker,0,0,1,2,300,Increases monster's Will by 2.
+2,Large Cracker,0,0,1,5,500,Increases monster's Will to max.
+3,Mini Motivator,0,1,0,1,500,"Revives monsters who have lost the Will to run, and gives them a Will of 1."
+4,Mega Motivator,0,1,1,3,800,"Revives monsters who have lost the Will to run, and restores half their Will."
+5,Max Motivator,0,1,1,5,1200,"Revives monsters who have lost the Will to run, and gives them maximum Will."
+6,Bronze Ingot,0,8,2,0,3000,An ingot made of bronze. Can be sold at the shop for a high price.
+7,Silver Ingot,0,8,2,0,8000,An ingot made of silver. Can be sold at the shop for a high price.
+8,Gold Ingot,0,8,2,0,15000,An ingot made of gold. Can be sold at the shop for a high price.
+9,Yellow Gumdrop,0,2,2,1,1000,Mysterious sweet that increases a monster's maximum Will.
+10,Green Gumdrop,0,3,2,4,1000,Mysterious sweet that increases a monster's Thrust.
+11,Blue Gumdrop,0,4,2,4,1000,Mysterious sweet that increases a monster's Speed.
+12,Pink Gumdrop,0,5,2,4,1000,Mysterious sweet that increases a monster's Power.
+13,Black Gumdrop,0,6,2,4,1000,Mysterious sweet that increases a monster's Spirit.
+14,Rope Ladder,0,7,0,0,300,Can be used to escape from any field straight to the regional map.
+15,Ocarina,0,9,0,30,600,"Puts wild monsters to sleep, and stops them moving briefly."
+16,Master Ocarina,0,9,1,45,800,"Puts wild monsters to sleep, and stops them moving temporarily."
+17,Legendary Ocarina,0,9,1,60,1000,"Puts wild monsters to sleep, and stops them moving for a long time."
+18,Star Crystal,0,8,2,0,,A valuable crystal. Highly prized by certain collectors.
+19,Warp Ladder,0,7,0,1,800,Can be used to escape from any field straight to Star City.
+20,Vault Key,1,8,2,0,,A key rumored to open the vault in Phil T. Rich's house.
+21,Treasure Chest Key,1,8,2,0,,A key which opens certain types of treasure chests.
+22,Gold Card,1,8,2,0,,A brilliantly shining card. Only the truly wealthy are permitted to carry one.
+23,Labyrinth Card,1,8,2,0,,A card recording the victories achieved in the Racers' Labyrinth with engraved stars.
+24,Power Glove,1,8,2,0,,A glove that doubles your strength and allows you to move small rocks.
+25,Master Glove,1,8,2,0,,A glove that greatly increases your strength and allows you to move large rocks.
+26,Legendary Glove,1,8,2,0,,"A very rare glove, sought after by collectors everywhere."
+27,Sledgehammer,1,8,2,0,,Enables you to break cracked rocks.
+28,Racer's Medal,1,8,2,0,,Proof of your status as a monster racer. Can only be issued by the Racers' Union.
+29,Rainbow Fragment,1,8,2,0,,A small rock fragment which emits a multi-colored aura when in darkness.
+30,Mystic Fragment,1,8,2,0,,A small rock fragment which brings a mysterious joy to any who hold it.
+31,Blizzard Fragment,1,8,2,0,,A small rock fragment which emits a pale blue aura when in darkness.
+32,Dark Fragment,1,8,2,0,,A small rock fragment which has the power to absorb all light from around it.
+33,Earth Fragment,1,8,2,0,,A small rock fragment which vibrates powerfully when held.
+34,Wisdom Fragment,1,8,2,0,,A small rock fragment which brings a mysterious calm to any who hold it.
+35,Flame Fragment,1,8,2,0,,A small rock fragment which emits a fiery red aura when in darkness.
+36,Enlightenment Ring,2,13,2,3,4000,Creates a larger increase in one of your basic stats when your monster increases in level. 
+37,Speed Ring,2,13,2,2,4000,Creates a larger increase in Speed when your monster increases in level.
+38,Thrust Ring,2,13,2,2,4000,Creates a larger increase in Thrust when your monster increases in level.
+39,Power Ring,2,13,2,2,4000,Creates a larger increase in Power when your monster increases in level.
+40,Spirit Ring,2,13,2,2,4000,Creates a larger increase in Spirit when your monster increases in level.
+41,Lucky Coin,2,12,2,2,5000,Monsters with this equipped win more money when winning a race.
+42,Ring of Learning,2,10,2,1,5000,Increases experience gained by equipped monster even when not racing.
+43,Ring of Knowledge,2,10,2,3,7000,Increases experience gained by equipped monster when racing.
+44,Rare Bell,2,9,2,10,10000,Makes rare monsters more likely to appear.
+45,High Bell,2,9,2,5,5000,Makes high level monsters more likely to appear.
+46,Low Bell,2,9,2,5,5000,Makes low level monsters more likely to appear.
+47,Loyalty Badge,2,11,2,2,7000,Slightly increases Loyalty of monsters who race with this equipped.
+48,Loyalty Brooch,2,11,2,5,8000,Increases Loyalty of monsters who race with this equipped.
+49,Loyalty Pendant,2,11,2,10,10000,Significantly increases Loyalty of monsters who race with this equipped.
+50,Vest,2,2,0,1,800,Increases equipped monster's Will by 1.
+51,Snorpork Vest,2,2,1,2,1500,Increases equipped monster's Will by 2 (for Snorporks only).
+52,Bandicute Vest,2,2,1,2,1500,Increases equipped monster's Will by 2 (for Bandicutes only).
+53,Bamboozil Vest,2,2,2,2,1500,Increases equipped monster's Will by 2 (for Bamboozils only).
+54,Pawlash Vest,2,2,1,2,1500,Increases equipped monster's Will by 2 (for Pawlashes only).
+55,Splurdle Vest,2,2,1,2,1500,Increases equipped monster's Will by 2 (for Splurdles only).
+56,Shelshok Vest,2,2,1,2,1500,Increases equipped monster's Will by 2 (for Shelshoks only).
+57,Zigzaguar Vest,2,2,1,2,1500,Increases equipped monster's Will by 2 (for Zigzaguars only).
+58,Hairdycat Vest,2,2,1,2,1500,Increases equipped monster's Will by 2 (for Hairdycats only).
+59,Legendary Vest,2,2,2,3,3000,Increases equipped monster's Will by 3.
+60,Claw,2,4,0,3,600,Increases equipped monster's Speed by 3.
+61,Super Claw,2,4,0,6,1200,Increases equipped monster's Speed by 6.
+62,Leefee Claw,2,4,1,12,120,Increases equipped monster's Speed by 12 (for Leefees only).
+63,Zaal Claw,2,4,1,12,120,Increases equipped monster's Speed by 12 (for Zaals only).
+64,Skreech Claw,2,4,1,10,1500,Increases equipped monster's Speed by 10 (for Skreeches only).
+65,Rakta Claw,2,4,1,9,1400,Increases equipped monster's Speed by 9 (for Raktas only).
+66,Steamu Claw,2,4,1,12,120,Increases equipped monster's Speed by 12 (for Steamus only).
+67,Goya Claw,2,4,1,12,120,Increases equipped monster's Speed by 12 (for Goyas only).
+68,Wispagrif Claw,2,4,2,15,2300,Increases equipped monster's Speed by 15 (for Wispagrifs only).
+69,Typhorn Claw,2,4,2,15,2300,Increases equipped monster's Speed by 15 (for Typhorns only).
+70,Iciquill Claw,2,4,2,20,3000,Increases equipped monster's Speed by 20 (for Iciquills only).
+71,Wolfreez Claw,2,4,2,15,2300,Increases equipped monster's Speed by 15 (for Wolfreezes only).
+72,Mordax Claw,2,4,1,13,2000,Increases equipped monster's Speed by 13 (for Mordaxes only).
+73,Kakkel Claw,2,4,1,9,1400,Increases equipped monster's Speed by 9 (for Kakkels only).
+74,Rhybak Claw,2,4,2,20,3000,Increases equipped monster's Speed by 20 (for Rhybaks only).
+75,Howlfire Claw,2,4,1,8,1200,Increases equipped monster's Speed by 8 (for Howlfires only).
+76,Punkchar Claw,2,4,1,12,120,Increases equipped monster's Speed by 12 (for Punkchars only).
+77,Dynasaur Claw,2,4,1,11,1700,Increases equipped monster's Speed by 11 (for Dynasaurs only).
+78,Flowrwolf Claw,2,4,1,13,2000,Increases equipped monster's Speed by 13 (for Flowrwolfs only).
+79,Hoodblink Claw,2,4,2,16,2400,Increases equipped monster's Speed by 16 (for Hoodblinks only).
+80,Skeldon Claw,2,4,1,12,120,Increases equipped monster's Speed by 12 (for Skeldons only).
+81,Furion Claw,2,4,2,15,2300,Increases equipped monster's Speed by 15 (for Furions only).
+82,Legendary Claw,2,4,2,25,5000,Increases equipped monster's Speed by 25.
+83,Brace,2,3,0,3,400,Increases equipped monster's Thrust by 3.
+84,Super Brace,2,3,0,6,800,Increases equipped monster's Thrust by 6.
+85,Phoechik Brace,2,3,1,15,1500,Increases equipped monster's Thrust by 15 (for Phoechiks only).
+86,Humblebug Brace,2,3,1,8,800,Increases equipped monster's Thrust by 8 (for Humblebugs only).
+87,Galaxtar Brace,2,3,2,15,1500,Increases equipped monster's Thrust by 15 (for Galaxtars only).
+88,Dinkum Brace,2,3,1,9,900,Increases equipped monster's Thrust by 9 (for Dinkums only).
+89,Roktops Brace,2,3,1,13,1300,Increases equipped monster's Thrust by 13 (for Roktops only).
+90,Sleeke Brace,2,3,1,12,1200,Increases equipped monster's Thrust by 12 (for Sleekes only).
+91,Magmare Brace,2,3,1,10,1000,Increases equipped monster's Thrust by 10 (for Magmares only).
+92,Tartarok Brace,2,3,2,15,1500,Increases equipped monster's Thrust by 15 (for Tartaroks only).
+93,Yakatak Brace,2,3,1,11,1100,Increases equipped monster's Thrust by 11 (for Yakataks only).
+94,Pachydorm Brace,2,3,1,8,800,Increases equipped monster's Thrust by 8 (for Pachydorms only).
+95,Singbok Brace,2,3,1,10,1000,Increases equipped monster's Thrust by 10 (for Singboks only).
+96,Snyph Brace,2,3,2,15,1500,Increases equipped monster's Thrust by 15 (for Snyphs only).
+97,Spryte Brace,2,3,2,18,120,Increases equipped monster's Thrust by 18 (for Sprytes only).
+98,Blitzhawk Brace,2,3,2,20,2000,Increases equipped monster's Thrust by 20 (for Blitzhawks only).
+99,Noxout Brace,2,3,1,12,1200,Increases equipped monster's Thrust by 12 (for Noxouts only).
+100,Seismik Brace,2,3,1,10,1000,Increases equipped monster's Thrust by 10 (for Seismiks only).
+101,Quercus Brace,2,3,1,11,1100,Increases equipped monster's Thrust by 11 (for Quercuses only).
+102,Glimmer Brace,2,3,2,15,1500,Increases equipped monster's Thrust by 15 (for Glimmers only).
+103,Legendary Brace,2,3,2,25,10000,Increases equipped monster's Thrust by 25.
+104,Belt,2,5,0,3,400,Increases equipped monster's Power by 3.
+105,Power Belt,2,5,0,6,800,Increases equipped monster's Power by 6.
+106,Cuboom Belt,2,5,1,13,1300,Increases equipped monster's Power by 13 (for Cubooms only).
+107,Poko Belt,2,5,2,15,1500,Increases equipped monster's Power by 15 (for Pokos only).
+108,Jabberoo Belt,2,5,1,8,800,Increases equipped monster's Power by 8 (for Jabberoos only).
+109,Paraduks Belt,2,5,1,8,800,Increases equipped monster's Power by 8 (for Paradukses only).
+110,Libertle Belt,2,5,1,10,1000,Increases equipped monster's Power by 10 (for Libertles only).
+111,Pyrefox Belt,2,5,1,12,1200,Increases equipped monster's Power by 12 (for Pyrefoxes only).
+112,Dolphus Belt,2,5,1,12,1200,Increases equipped monster's Power by 12 (for Dolphuses only).
+113,Kristar Belt,2,5,2,15,1500,Increases equipped monster's Power by 15 (for Kristars only).
+114,Raph Belt,2,5,1,9,900,Increases equipped monster's Power by 9 (for Raphs only).
+115,Thompa Belt,2,5,2,15,1500,Increases equipped monster's Power by 15 (for Thompas only).
+116,Slinkah Belt,2,5,1,11,1100,Increases equipped monster's Power by 11 (for Slinkahs only).
+117,Mutigator Belt,2,5,1,13,1300,Increases equipped monster's Power by 13 (for Mutigators only).
+118,Wreckx Belt,2,5,2,15,1500,Increases equipped monster's Power by 15 (for Wreckxes only).
+119,Kerlupp Belt,2,5,2,20,2000,Increases equipped monster's Power by 20 (for Kerlupps only).
+120,Raknord Belt,2,5,1,12,1200,Increases equipped monster's Power by 12 (for Raknords only).
+121,Cirrus Belt,2,5,1,14,1400,Increases equipped monster's Power by 14 (for Cirruses only).
+122,Rokard Belt,2,5,1,20,2000,Increases equipped monster's Power by 20 (for Rokards only).
+123,Whirlwolf Belt,2,5,2,15,1500,Increases equipped monster's Power by 15 (for Whirlwolfs only).
+124,Legendary Belt,2,5,2,25,10000,Increases equipped monster's Power by 25.
+125,Headband,2,6,0,3,400,Increases equipped monster's Spirit by 3.
+126,Super Band,2,6,0,6,800,Increases equipped monster's Spirit by 6.
+127,Skullking Band,2,6,1,9,900,Increases equipped monster's Spirit by 9 (for Skullkings only).
+128,Sqwurm Band,2,6,1,9,900,Increases equipped monster's Spirit by 9 (for Sqwurms only).
+129,Monark Band,2,6,1,10,1000,Increases equipped monster's Spirit by 10 (for Monarks only).
+130,Rainbeau Band,2,6,2,15,1500,Increases equipped monster's Spirit by 15 (for Rainbeaux only).
+131,Vanitail Band,2,6,1,10,1000,Increases equipped monster's Spirit by 10 (for Vanitails only).
+132,Strypee Band,2,6,1,11,1100,Increases equipped monster's Spirit by 11 (for Strypees only).
+133,Squink Band,2,6,2,15,1500,Increases equipped monster's Spirit by 15 (for Squinks only).
+134,Hopaloris Band,2,6,2,18,120,Increases equipped monster's Spirit by 18 (for Hopalorises only).
+135,Blazen Band,2,6,2,15,1500,Increases equipped monster's Spirit by 15 (for Blazens only).
+136,Ecopher Band,2,6,1,8,800,Increases equipped monster's Spirit by 8 (for Ecophers only).
+137,Solus Band,2,6,1,10,1000,Increases equipped monster's Spirit by 10 (for Soluses only).
+138,Flyptid Band,2,6,2,18,120,Increases equipped monster's Spirit by 18 (for Flyptids only).
+139,Purrl Band,2,6,1,10,1000,Increases equipped monster's Spirit by 10 (for Purrls only).
+140,Slythe Band,2,6,2,15,1500,Increases equipped monster's Spirit by 15 (for Slythes only).
+141,Ecto Band,2,6,1,12,1200,Increases equipped monster's Spirit by 12 (for Ectos only).
+142,Ironclaw Band,2,6,1,12,1200,Increases equipped monster's Spirit by 12 (for Ironclaws only).
+143,Legendary Band,2,6,2,25,10000,Increases equipped monster's Spirit by 25.
+144,Yellow Orb,0,8,2,10,,A mysterious yellow stone which can change monsters' colors and increase Loyalty.
+145,Green Orb,0,8,2,10,,A mysterious green stone which can change monsters' colors and increase Loyalty.
+146,Light Blue Orb,0,8,2,10,,A mysterious light blue stone which can change monsters' colors and increase Loyalty.
+147,Dark Blue Orb,0,8,2,10,,A mysterious dark blue stone which can change monsters' colors and increase Loyalty.
+148,Pink Orb,0,8,2,10,,A mysterious pink stone which can change monsters' colors and increase Loyalty.
+149,Red Orb,0,8,2,10,,A mysterious red stone which can change monsters' colors and increase Loyalty.
+150,Rainbow Orb,0,8,2,10,,A rainbow-colored stone which can change monsters' colors and increase Loyalty.

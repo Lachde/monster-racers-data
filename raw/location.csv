@@ -1,0 +1,59 @@
+﻿id,name,region,terrain_id,flavour_text
+0,Star City,0,,The only city on Star Island. It was only built in recent years in response to the ever-growing popularity of the monster races.
+1,Superstar GP,0,0,
+2,Star Cup,0,0,A tournament for beginner monster racers. This is the first step on the road to becoming a world famous racer.
+3,Native Cup,0,10,"A tournament in which only monsters from the home of monster racing, Star Island, are allowed to enter."
+4,Breeders' Trophy,0,4,A specialized tournament only open to entry from monsters who have been bred by Dr. Franz N. Stein.
+5,Oceania GP,1,9,The largest and most important monster racing tournament in Oceania. A member of the Star Seven is defending champion.
+6,Australian Open,1,2,"A major tournament in Australia. Any monsters are eligible to compete, and the winner gains entry to the Oceania Grand Prix."
+7,New Zealand Cup,1,4,A tournament held in front of the beautiful mountain ranges of New Zealand. Only monsters from Oceania are eligible to enter.
+8,Fiji Trophy,1,1,"A specialized tournament held in tropical Fiji, and only open to entry from exotic versions of monsters."
+9,Asian GP,2,3,The largest and most important monster racing tournament in Asia. A member of the Star Seven is defending champion.
+10,Chinese Open,2,7,"A major tournament in China. Any monsters are eligible to compete, and the winner gains entry to the Asian Grand Prix."
+11,India Cup,2,2,A tournament held on the rocky terrain of India. Only monsters from Asia are eligible to enter.
+12,Brunei Trophy,2,6,"A specialized tournament held in Brunei, in which entry is restricted to monsters below a certain size."
+13,Eurasian GP,3,11,The largest and most important monster racing tournament in Eurasia. A member of the Star Seven is defending champion.
+14,Russian Open,3,11,"A major tournament in Russia. Any monsters are eligible to compete, and the winner gains entry to the Eurasian Grand Prix."
+15,Ukraine Cup,3,11,A tournament held in the snowy wilderness of the Ukraine. Only monsters from Eurasia are eligible to enter.
+16,Belarus Trophy,3,0,A specialized tournament held in Belarus. Only cute monsters are allowed to enter - which creates some controversy.
+17,African GP,4,5,The largest and most important monster racing tournament in Africa. A member of the Star Seven is defending champion.
+18,Nigerian Open,4,5,"A major tournament in Nigeria. Any monsters are eligible to compete, and the winner gains entry to the African Grand Prix."
+19,Ethiopia Cup,4,0,A tournament held in the blistering heat of Ethiopia. Only monsters from Africa are eligible to enter.
+20,Madagascar Trophy,4,2,A specialized tournament held in Madagascar. Only monsters considered weird-looking are allowed to enter.
+21,North American GP,5,2,The most significant monster racing tournament in North America. A member of the Star Seven is defending champion.
+22,Canadian Open,5,6,"A major tournament in Canada. Entry is open, and the winner earns the right to compete in the North American Grand Prix."
+23,New York Cup,5,2,A tournament held in the bustling metropolis of New York. Only monsters from North America are eligible to enter.
+24,Bermuda Trophy,5,2,A specialized tournament held in Bermuda. Only monsters considered scary-looking are allowed to enter.
+25,South American GP,6,9,The most significant monster racing tournament in South America. A member of the Star Seven is defending champion.
+26,Argentine Open,6,8,"A major tournament in Argentina. Entry is open, and the winner earns the right to compete in the South American Grand Prix."
+27,Chile Cup,6,2,A tournament held in the mountainous terrain of Chile. Only monsters from South America are eligible to enter.
+28,Bolivia Trophy,6,2,A specialized tournament held in Bolivia. Only monsters above a certain size are allowed to enter.
+29,European GP,7,2,The largest and most important monster racing tournament in Europe. A member of the Star Seven is defending champion.
+30,French Open,7,0,"A major tournament in France. Entry is open, and the winner earns the right to compete in the European Grand Prix."
+31,Spain Cup,7,0,"A tournament held in the land of sunshine, Spain. Only monsters from Europe are eligible to enter."
+32,Sweden Trophy,7,17,A specialized tournament held in Sweden. Only cool and good-looking monsters are allowed to enter.
+33,Star Plains,0,0,A small flat region in the west of Star Island. It is inhabited by a wide variety of smaller low level monsters.
+34,Star Caves,0,10,"A series of caves in the east of Star Island. Dark at all times of the day, it is known as a place of great mystery."
+35,Ayers Rock,1,2,"One of the largest single rocks in the world. Also known as Uluru, some consider it the center of the earth."
+36,Rainforest,1,9,An ancient area of bushland in the east of Australia. Many monsters live deep within the undergrowth.
+37,Great Barrier Reef,1,8,"Stunningly beautiful, this is the world's largest coral reef. It has taken over two million years to grow to this size."
+38,Fuji,2,4,"A vast forest extending at the foot of the famous Mt. Fuji. Once you enter, it is hard to find your way out again."
+39,Guilin,2,2,"This area is famous for its magnificent scenery, similar to Chinese ink paintings with its mountains and rivers."
+40,Taklamakan,2,7,"A vast dry desert in the middle of Asia. It almost never rains, and the mountains of sand seem to continue forever."
+41,Oymyakon,3,11,Known as the coldest inhabited place in the world. The monsters here are used to living in freezing conditions.
+42,Kamchatka,3,10,One of the world's most famous volcanic areas. The monsters here are able to handle extreme heat.
+43,North Pole,3,11,The northern most point on the planet. The Arctic Ocean is so frozen over that the ice seems just like land.
+44,Masai Mara,4,0,A vast African savanna.  It is bustling with a wide range of exotic wild monsters.
+45,Bwindi,4,0,"A dark and mysterious jungle. Very few people venture inside, but those that do discover rare monsters."
+46,Giza,4,7,"Home of the famous pyramids in Egypt. Situated in the middle of the desert, this city has great historical value."
+47,Yellowstone,5,16,A national park in the United States of America. It is famous for its natural beauty and its powerful geysers.
+48,Niagara,5,6,A massive waterfall on the border between Canada and the United States. Famous worldwide as a tourist spot.
+49,Grand Canyon,5,2,A vast valley gouged out of rock by a river. You can see how the layers of rock have formed over the years.
+50,Guyana,6,0,An area famous for the Angel Falls (the world's highest waterfall) and for its secluded hidden wilderness.
+51,Amazon,6,9,"A vast jungle, spreading around the massive and thunderous Amazon River. Famous for its wildlife."
+52,Machu Picchu,6,2,"The ruins of an ancient Incan civilization, perched atop a tall mountain. Many unsolved mysteries about it remain."
+53,Matterhorn,7,15,"A steep and forbidding mountain in Europe. Its majestic cragginess has given it the name the ""Queen of the Alps""."
+54,Stonehenge,7,14,A famously mysterious spot in England. No one knows for sure why these huge rocks were placed in this field.
+55,Mt. Etna,7,10,"A legendary volcano, which has erupted now and again for thousands of years.  It is celebrated in legend."
+56,Racers' Labyrinth,0,,
+57,Aku's Grotto,0,10,

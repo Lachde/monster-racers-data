@@ -1,0 +1,161 @@
+﻿id,handbook_number,name,region,attribute_1,attribute_2,size,height,weight,legendary,flavour_text,exotic,speed,thrust,power,spirit,growth_rate,jump_height,exp_yield,loyalty_yield,friend_difficulty
+0,1,Leefee,0,1,0,0,0.7,9.1,0,"Fun-loving and playful. They love nothing more than to run, and are very reliable in races.",0,55,55,50,65,0,1,48,4,39
+1,2,Phoechik,0,1,0,0,0.6,4.7,0,Proud and confident. Once they set their minds on something nothing can stop them.,0,60,70,45,50,0,2,53,4,39
+2,3,Cuboom,0,1,0,0,0.4,10.2,0,"Nosy and curious. They don't like being left alone, and always want to play.",0,55,45,65,60,0,1,48,4,39
+3,4,Scullking,0,1,0,1,0.6,13.6,0,"They love water, and will usually be found living by clear running streams.",0,50,56,52,57,0,1,44,4,39
+4,5,Poko,0,0,1,0,0.4,12.4,0,They hate to lose. Will always run hard with their little horns lowered.,0,45,40,60,55,1,0,36,2,30
+5,6,Snorpork,0,0,2,0,0.4,5.8,0,"They are very sleepy, and have developed the ability to stay asleep while running.",0,50,60,45,45,3,0,40,2,30
+6,7,Sqwurm,0,0,2,0,0.3,3.4,0,"They treasure the shells they were born from, and carry them even when racing.",0,55,45,43,57,2,0,40,2,30
+7,8,Humblebug,0,2,0,1,0.9,68,0,"They are covered in a hard shell, and roll into a ball at the first sign of danger.",0,43,45,58,60,3,1,39,6,30
+8,9,Zaal,0,3,,1,0.8,59,0,"They linger in the shadows, and are usually only seen by their glowing red eyes.",0,63,55,55,55,2,2,53,8,49
+9,10,Galaxtar,0,1,3,2,3,300,1,"Legendary monsters encountered by very few. Noble creatures, they have great power.",0,100,95,92,91,3,2,147,12,120
+10,11,Dinkum,1,0,,0,0.7,10,0,"Agile and nimble. As soon as they see a tree, they cannot help but climb up it.",0,45,58,52,45,4,0,39,2,30
+11,12,Jabberoo,1,3,2,1,1.7,102,0,"They have a very powerful jump, driven by their huge hind legs.",0,45,40,60,60,2,2,38,4,30
+12,13,Skreech,1,1,3,0,0.4,12,0,"They look small and innocent, but their cries are terrifyingly loud and piercing.",0,52,52,52,52,2,1,43,4,30
+13,14,Paraduks,1,0,2,0,0.3,5.6,0,"Strange monsters known for their cute beady eyes, and their short tempers.",0,58,36,72,45,2,0,44,4,30
+14,15,Rakta,1,2,,1,0.9,4.4,0,Their unique running style makes them popular among certain monster enthusiasts.,0,63,58,48,52,0,1,51,6,30
+15,16,Monark,1,1,,1,1.2,26,0,"Cool and calm at all times, except in races when they become very aggressive.",0,64,59,52,60,4,1,56,6,39
+16,17,Bandicute,1,0,,0,0.4,6.1,0,Curious and quick to discover anything new. Their big ears hear distant sounds.,0,62,72,53,50,1,0,57,6,39
+17,18,Steamu,1,2,3,1,1.6,80,0,"Wild and difficult to tame. Once tamed, however, they are powerful racers.",0,62,68,68,58,2,2,65,6,39
+18,19,Roktops,1,2,,1,1,229,0,Mysterious monsters said to have three eyes. Proud of their very tough bodies.,0,75,60,82,80,1,0,87,8,49
+19,20,Rainbeau,1,1,,2,2.9,103,1,Famous for their multi-colored beauty. Said to have the power to make it rain.,0,86,94,91,79,1,2,122,10,70
+20,21,Bamboozil,2,0,2,0,0.6,10.9,0,"Often seemingly dazed, or confused, these monsters like to be lost in their thoughts.",0,43,52,45,60,2,0,38,4,30
+21,22,Goya,2,2,3,1,1.1,105,0,"Stubborn as a rock, they can be hard to move from the place they call home.",0,42,44,64,60,0,1,39,4,30
+22,23,Sleeke,2,1,3,0,0.5,2.2,0,Their lightning fast movements and changes of direction tend to confuse their rivals.,0,58,60,53,50,1,1,49,6,30
+23,24,Vanitail,2,0,,0,0.6,10.7,0,"Haughty and cold at first, once befriended, they are faithful and loyal to the very end.",0,60,50,42,70,0,2,49,4,30
+24,25,Libertle,2,2,0,1,1.5,36,0,"If the crowns on top of their heads dry out, they lose the will to race.",0,62,50,72,59,2,0,57,6,39
+25,26,Wispagrif,2,3,1,1,1.1,205,0,They cut silently through the air using the wings growing from their shoulders.,0,65,60,80,53,4,2,65,6,39
+26,27,Magmare,2,1,,1,1.7,188,0,"Capable of running vast distances, they are famed for their stunning golden manes.",0,70,61,81,60,0,1,73,8,39
+27,28,Pyrefox,2,1,,1,1,31,0,"They can control fire with their nine beautiful tails, and can be very dangerous.",0,78,82,72,58,2,2,102,8,39
+28,29,Tartarok,2,3,,2,2.5,490,0,Known as embodiments of chaos for their ability to destroy all life around them.,0,79,68,89,89,4,1,102,8,49
+29,30,Typhorn,2,1,3,2,2,100,1,Known as kind and noble monsters. Only the pure at heart can ever come across them.,0,91,73,94,92,2,2,122,10,80
+30,31,Iciquill,3,0,2,0,0.3,1.2,0,They raise the quills on their back when angered so that none can approach them.,0,53,60,48,49,2,2,44,4,30
+31,32,Strypee,3,0,,0,0.3,1.8,0,"They are happiest when gliding through the air, often jumping from tree to tree.",0,52,55,48,60,3,2,45,4,30
+32,33,Dolphus,3,1,3,1,2.2,201,0,Popular for the beautiful snow crystals that form part of their antlers.,0,59,45,59,59,3,1,49,4,30
+33,34,Yakatak,3,2,3,1,1.5,300,0,The high rotation of their stocky legs enables them not to sink when on snow.,0,62,48,80,65,4,0,62,6,39
+34,35,Pawlash,3,1,0,1,1.3,80,0,They use their sharp claws to slash through even the hardest blocks of ice.,0,65,58,79,60,1,1,67,6,39
+35,36,Squink,3,2,0,0,0.4,1.5,0,The most expressive of all monsters. Surprisingly scary when angered.,0,70,66,45,89,1,2,73,6,39
+36,37,Wolfreez,3,1,3,1,0.8,28,0,Enshrouded in frozen flame that freezes solid any who come too close.,0,76,62,70,64,2,1,76,6,39
+37,38,Pachydorm,3,2,3,2,2,340,0,"Usually sleepy and slow, they are amazingly fast when they have to be.",0,62,71,81,82,2,0,81,8,39
+38,39,Mordax,3,3,1,1,1,206,0,"Owning a powerful bite, these monsters have an appetite for destruction.",0,89,75,88,73,1,0,108,8,49
+39,40,Kristar,3,3,,2,2.9,269,1,"Kings of the frozen north, any ice they create can never be melted.",0,84,99,89,78,2,0,122,10,70
+40,41,Hopaloris,4,0,,1,1.1,9.6,0,"Famous for their unique running style, where they bounce along sideways.",0,62,57,48,53,2,1,51,4,30
+41,42,Raph,4,2,0,1,1.8,63,0,They use their tiny legs to power across the vast savanna in search of food.,0,59,52,53,60,3,0,51,4,30
+42,43,Kakkel,4,3,,1,1.2,62,0,"When night falls, they gather in packs and make a sound eerily like laughter.",0,71,65,43,45,1,0,56,4,39
+43,44,Splurdle,4,2,0,1,0.8,165,0,"They hate to be touched, and protect themselves with a layer of poisoned goo.",0,50,49,63,72,3,0,51,4,30
+44,45,Singbok,4,1,,1,2.5,98.6,0,Their antlers ring out a lovely melody as they sprint lithely across the savanna.,0,70,80,58,52,1,2,72,6,39
+45,46,Thompa,4,3,2,2,1.8,205,0,Their arms are so strong that they have learned to run on them instead of their legs.,0,68,50,88,72,1,0,73,6,39
+46,47,Rhybak,4,1,3,2,1.6,590,0,"Covered in a hard armor-like skin, they have no fear of charging head-down.",0,66,53,73,90,2,0,75,8,39
+47,48,Slinkah,4,3,2,1,1,64.8,0,"With a rubber-like flexibility, they can twist their bodies to achieve super speeds.",0,78,86,61,68,2,2,89,8,39
+48,49,Blazen,4,3,1,1,1.7,190,0,The flames burning all over their bodies scorch any who dare to stand in their way.,0,85,76,89,75,0,1,105,10,49
+49,50,Snyph,4,1,3,1,1.9,64.3,1,"Famed as carriers of souls to the next world, their speed is a relic of this past.",0,95,90,80,85,2,2,126,10,80
+50,51,Ecopher,5,0,,0,0.9,11.2,0,"They live in holes dug in the prairies on which they live, in huge family groups.",0,51,59,55,55,1,0,47,4,30
+51,52,Shelshok,5,1,,1,1.5,196,0,"Using the terminals on their backs, they can give their rivals a nasty shock.",0,57,42,70,61,1,0,51,4,30
+52,53,Solus,5,2,0,1,1.3,29,0,A mysterious species of monster whose origins and biology are entirely unknown.,0,65,67,47,60,2,2,59,4,30
+53,54,Mutigator,5,2,3,1,0.9,140,0,"Huge eaters, they refuse to chew, but instead swallow everything whole.",0,66,45,72,71,4,0,62,6,39
+54,55,Howlfire,5,1,,1,1.2,29,0,"On moonlit nights, they gather in packs and howl spookily into the night sky.",0,68,75,55,57,4,0,68,4,39
+55,56,Spryte,5,0,2,0,0.8,9.3,0,"Born tricksters, they can be extremely dangerous if underestimated.",0,75,78,58,59,2,2,76,6,39
+56,57,Punkchar,5,3,,2,1.6,330,0,"Their spikes are for self-defense, but can also make a dangerous weapon.",0,68,61,75,85,1,0,80,8,39
+57,58,Dynasaur,5,3,,1,2,114,0,"Using their powerful hind legs and their tail for balance, they reach amazing speeds.",0,79,63,82,66,4,1,85,8,39
+58,59,Blitzhawk,5,1,,1,1.4,216,0,"Usually soaring high above, they attack by swooping down with a bolt of lightning.",0,81,75,79,90,0,2,104,10,49
+59,60,Wreckx,5,3,,2,2.4,596,1,Said to be the most powerful monster of all. Their bodies are almost indestructible.,0,84,77,98,91,2,1,118,10,80
+60,61,Noxout,6,2,,0,0.4,8.2,0,Their tails release toxic gas which explodes violently if exposed to flame.,0,60,53,54,55,4,1,49,4,30
+61,62,Kerlupp,6,2,,0,0.3,5.8,0,Their favorite mode of transport is to curl into a wheel shape and roll along the road.,0,55,53,61,62,1,1,51,4,30
+62,63,Raknord,6,3,,1,1,33.6,0,Can use each of their eight legs separately. They hate to be called spiders.,0,67,75,44,48,1,2,59,4,30
+63,64,Flowrwolf,6,2,0,1,0.9,21.1,0,They can run just as quickly either forwards or backwards. Their flowers are a mystery.,0,68,65,62,63,0,1,67,6,39
+64,65,Hoodblink,6,3,2,1,1.2,38,0,"Devious and shifty, they can run quickly when they need to escape from danger.",0,78,58,82,50,4,2,75,6,39
+65,66,Zigzaguar,6,1,0,1,0.5,16.7,0,Their glowing eyes as they run in the dark make them look like a bolt of lightning.,0,82,79,66,63,3,1,89,8,39
+66,67,Seismik,6,3,,2,1.5,345,0,Their resounding cries echo through the land and can even trigger earthquakes.,0,69,62,79,85,4,0,83,8,39
+67,68,Flyptid,6,1,0,2,1.8,117,0,"Pure of heart, they hate conflict, and only show themselves to peaceful people.",0,91,89,75,70,3,0,112,8,49
+68,69,Purrl,6,0,,0,0.4,7.5,0,"Rarely spotted, these monsters are said to bring luck to racers who befriend them.",0,79,89,79,70,2,1,102,8,49
+69,70,Slythe,6,3,1,2,2,124,1,"A legendary monster, which was said to have brought learning to mankind.",0,84,94,80,92,1,0,122,10,70
+70,71,Hairdycat,7,2,0,1,1.3,28.5,0,"Always well-groomed, these monsters do tend to suffer from over-inflated egos.",0,60,64,52,53,0,2,53,4,30
+71,72,Skeldon,7,2,3,1,1.1,10.7,0,"Made up only of bone, they fall apart when hurt. No one knows how they stay alive.",0,65,49,70,51,0,0,56,6,30
+72,73,Cirrus,7,1,0,1,1.6,176,0,These elegant monsters soar through the sky with their seven wings. Can run on land too.,0,71,70,61,55,1,0,68,6,39
+73,74,Ecto,7,2,,1,1,0.1,0,"They appear without warning, usually in the darkness behind the unsuspecting.",0,69,60,69,80,1,2,75,6,39
+74,75,Quercus,7,2,3,2,3,496,0,"Often mistaken for actual trees, these monsters live for a very long time.",0,76,78,80,70,1,0,92,8,49
+75,76,Ironclaw,7,1,,1,0.9,28,0,"When angered, they reshape their steel bodies and expel a poisonous gas.",0,78,71,63,89,1,2,90,8,49
+76,77,Rokard,7,2,3,2,2.9,766,0,"Immovable as a mountain, they crush all in their way with their huge bodies.",0,62,65,72,98,3,0,81,8,39
+77,78,Glimmer,7,1,3,1,1.6,75,0,"They spend almost all their lives in the air, flying on their massive wings.",0,83,80,77,74,4,2,100,10,49
+78,79,Whirlwolf,7,1,,1,2.1,104,0,"When they start to run, they trigger a huge whirlwind which carries them along.",0,90,70,85,80,2,1,108,8,49
+79,80,Furion,7,3,1,2,2.7,283,1,"The fastest of all monsters, they speed along on wings of burning flame.",0,96,90,92,89,3,2,137,10,80
+80,1,Leefee,0,1,0,0,0.7,9.1,0,"Fun-loving and playful. They love nothing more than to run, and are very reliable in races.",1,60,57,62,62,1,1,57,12,60
+81,2,Phoechik,0,1,0,0,0.6,4.7,0,Proud and confident. Once they set their minds on something nothing can stop them.,1,62,72,47,60,4,2,59,12,60
+82,3,Cuboom,0,1,0,0,0.4,10.2,0,"Nosy and curious. They don't like being left alone, and always want to play.",1,57,47,75,62,3,1,54,12,60
+83,4,Scullking,0,1,0,1,0.6,13.6,0,"They love water, and will usually be found living by clear running streams.",1,52,58,54,67,0,1,51,12,60
+84,5,Poko,0,0,1,0,0.4,12.4,0,They hate to lose. Will always run hard with their little horns lowered.,1,47,42,70,57,3,0,43,10,49
+85,6,Snorpork,0,0,2,0,0.4,5.8,0,"They are very sleepy, and have developed the ability to stay asleep while running.",1,52,70,47,47,0,0,47,10,49
+86,7,Sqwurm,0,0,2,0,0.3,3.4,0,"They treasure the shells they were born from, and carry them even when racing.",1,57,47,53,59,1,0,47,10,49
+87,8,Humblebug,0,2,0,1,0.9,68,0,"They are covered in a hard shell, and roll into a ball at the first sign of danger.",1,53,47,60,62,0,1,47,18,49
+88,9,Zaal,0,3,,1,0.8,59,0,"They linger in the shadows, and are usually only seen by their glowing red eyes.",1,65,65,57,57,3,2,60,24,69
+89,10,Galaxtar,0,1,3,2,3,300,1,"Legendary monsters encountered by very few. Noble creatures, they have great power.",1,100,100,100,100,1,2,160,40,150
+90,11,Dinkum,1,0,,0,0.7,10,0,"Agile and nimble. As soon as they see a tree, they cannot help but climb up it.",1,47,68,54,47,1,0,45,10,49
+91,12,Jabberoo,1,3,2,1,1.7,102,0,"They have a very powerful jump, driven by their huge hind legs.",1,47,55,62,62,4,2,47,12,49
+92,13,Skreech,1,1,3,0,0.4,12,0,"They look small and innocent, but their cries are terrifyingly loud and piercing.",1,54,54,54,62,1,1,49,12,49
+93,14,Paraduks,1,0,2,0,0.3,5.6,0,"Strange monsters known for their cute beady eyes, and their short tempers.",1,60,46,74,47,4,0,51,14,49
+94,15,Rakta,1,2,,1,0.9,4.4,0,Their unique running style makes them popular among certain monster enthusiasts.,1,65,60,50,62,0,1,57,18,49
+95,16,Monark,1,1,,1,1.2,26,0,"Cool and calm at all times, except in races when they become very aggressive.",1,66,61,62,61,2,1,64,18,60
+96,17,Bandicute,1,0,,0,0.4,6.1,0,Curious and quick to discover anything new. Their big ears hear distant sounds.,1,64,74,55,60,1,0,65,20,60
+97,18,Steamu,1,2,3,1,1.6,80,0,"Wild and difficult to tame. Once tamed, however, they are powerful racers.",1,64,70,70,68,4,2,72,20,60
+98,19,Roktops,1,2,,1,1,229,0,Mysterious monsters said to have three eyes. Proud of their very tough bodies.,1,77,70,84,82,1,0,96,24,69
+99,20,Rainbeau,1,1,,2,2.9,103,1,Famous for their multi-colored beauty. Said to have the power to make it rain.,1,88,96,93,89,1,2,133,34,120
+100,21,Bamboozil,2,0,2,0,0.6,10.9,0,"Often seemingly dazed, or confused, these monsters like to be lost in their thoughts.",1,53,54,47,62,2,0,45,12,49
+101,22,Goya,2,2,3,1,1.1,105,0,"Stubborn as a rock, they can be hard to move from the place they call home.",1,52,46,66,62,3,1,48,12,49
+102,23,Sleeke,2,1,3,0,0.5,2.2,0,Their lightning fast movements and changes of direction tend to confuse their rivals.,1,60,62,63,52,4,1,56,18,49
+103,24,Vanitail,2,0,,0,0.6,10.7,0,"Haughty and cold at first, once befriended, they are faithful and loyal to the very end.",1,62,60,44,72,3,2,57,14,49
+104,25,Libertle,2,2,0,1,1.5,36,0,"If the crowns on top of their heads dry out, they lose the will to race.",1,64,52,74,69,2,0,65,18,60
+105,26,Wispagrif,2,3,1,1,1.1,205,0,They cut silently through the air using the wings growing from their shoulders.,1,67,70,82,55,1,2,75,20,60
+106,27,Magmare,2,1,,1,1.7,188,0,"Capable of running vast distances, they are famed for their stunning golden manes.",1,72,71,83,62,3,1,81,24,60
+107,28,Pyrefox,2,1,,1,1,31,0,"They can control fire with their nine beautiful tails, and can be very dangerous.",1,80,84,74,68,0,2,112,24,60
+108,29,Tartarok,2,3,,2,2.5,490,0,Known as embodiments of chaos for their ability to destroy all life around them.,1,83,78,91,91,0,1,116,26,69
+109,30,Typhorn,2,1,3,2,2,100,1,Known as kind and noble monsters. Only the pure at heart can ever come across them.,1,93,83,96,94,3,2,133,31,120
+110,31,Iciquill,3,0,2,0,0.3,1.2,0,They raise the quills on their back when angered so that none can approach them.,1,63,62,50,51,4,2,53,12,49
+111,32,Strypee,3,0,,0,0.3,1.8,0,"They are happiest when gliding through the air, often jumping from tree to tree.",1,54,57,58,62,4,2,52,12,49
+112,33,Dolphus,3,1,3,1,2.2,201,0,Popular for the beautiful snow crystals that form part of their antlers.,1,61,55,61,61,3,1,56,14,49
+113,34,Yakatak,3,2,3,1,1.5,300,0,The high rotation of their stocky legs enables them not to sink when on snow.,1,64,58,82,67,1,0,70,18,60
+114,35,Pawlash,3,1,0,1,1.3,80,0,They use their sharp claws to slash through even the hardest blocks of ice.,1,67,60,89,62,1,1,75,20,60
+115,36,Squink,3,2,0,0,0.4,1.5,0,The most expressive of all monsters. Surprisingly scary when angered.,1,72,68,47,99,3,2,81,20,60
+116,37,Wolfreez,3,1,3,1,0.8,28,0,Enshrouded in frozen flame that freezes solid any who come too close.,1,86,64,72,66,4,1,87,18,60
+117,38,Pachydorm,3,2,3,2,2,340,0,"Usually sleepy and slow, they are amazingly fast when they have to be.",1,72,73,83,84,1,0,94,24,60
+118,39,Mordax,3,3,1,1,1,206,0,"Owning a powerful bite, these monsters have an appetite for destruction.",1,91,85,90,75,1,0,120,26,69
+119,40,Kristar,3,3,,2,2.9,269,1,"Kings of the frozen north, any ice they create can never be melted.",1,94,99,91,80,2,2,135,31,120
+120,41,Hopaloris,4,0,,1,1.1,9.6,0,"Famous for their unique running style, where they bounce along sideways.",1,64,59,58,55,4,1,56,12,49
+121,42,Raph,4,2,0,1,1.8,63,0,They use their tiny legs to power across the vast savanna in search of food.,1,61,62,55,62,1,0,57,12,49
+122,43,Kakkel,4,3,,1,1.2,62,0,"When night falls, they gather in packs and make a sound eerily like laughter.",1,73,67,53,47,2,0,62,14,49
+123,44,Splurdle,4,2,0,1,0.8,165,0,"They hate to be touched, and protect themselves with a layer of poisoned goo.",1,60,51,65,74,2,0,59,14,49
+124,45,Singbok,4,1,,1,2.5,98.6,0,Their antlers ring out a lovely melody as they sprint lithely across the savanna.,1,72,82,60,62,4,2,78,18,60
+125,46,Thompa,4,3,2,2,1.8,205,0,Their arms are so strong that they have learned to run on them instead of their legs.,1,70,52,98,74,1,0,81,20,60
+126,47,Rhybak,4,1,3,2,1.6,590,0,"Covered in a hard armor-like skin, they have no fear of charging head-down.",1,68,55,83,92,4,0,87,24,60
+127,48,Slinkah,4,3,2,1,1,64.8,0,"With a rubber-like flexibility, they can twist their bodies to achieve super speeds.",1,88,88,63,70,4,2,102,24,60
+128,49,Blazen,4,3,1,1,1.7,190,0,The flames burning all over their bodies scorch any who dare to stand in their way.,1,95,78,91,77,3,1,120,31,69
+129,50,Snyph,4,1,3,1,1.9,64.3,1,"Famed as carriers of souls to the next world, their speed is a relic of this past.",1,97,92,90,87,4,2,137,31,120
+130,51,Ecopher,5,0,,0,0.9,11.2,0,"They live in holes dug in the prairies on which they live, in huge family groups.",1,61,61,57,57,3,0,56,12,49
+131,52,Shelshok,5,1,,1,1.5,196,0,"Using the terminals on their backs, they can give their rivals a nasty shock.",1,59,52,72,63,3,0,57,14,49
+132,53,Solus,5,2,0,1,1.3,29,0,A mysterious species of monster whose origins and biology are entirely unknown.,1,100,60,40,40,0,2,192,100,49
+133,54,Mutigator,5,2,3,1,0.9,140,0,"Huge eaters, they refuse to chew, but instead swallow everything whole.",1,68,47,82,73,1,0,70,18,49
+134,55,Howlfire,5,1,,1,1.2,29,0,"On moonlit nights, they gather in packs and howl spookily into the night sky.",1,70,77,65,59,0,0,75,14,49
+135,56,Spryte,5,0,2,0,0.8,9.3,0,"Born tricksters, they can be extremely dangerous if underestimated.",1,77,80,60,69,3,2,85,20,60
+136,57,Punkchar,5,3,,2,1.6,330,0,"Their spikes are for self-defense, but can also make a dangerous weapon.",1,70,63,85,87,0,0,89,24,60
+137,58,Dynasaur,5,3,,1,2,114,0,"Using their powerful hind legs and their tail for balance, they reach amazing speeds.",1,81,73,84,68,3,1,94,24,60
+138,59,Blitzhawk,5,1,,1,1.4,216,0,"Usually soaring high above, they attack by swooping down with a bolt of lightning.",1,91,77,81,92,4,2,112,31,69
+139,60,Wreckx,5,3,,2,2.4,596,1,Said to be the most powerful monster of all. Their bodies are almost indestructible.,1,94,79,100,93,2,1,133,34,120
+140,61,Noxout,6,2,,0,0.4,8.2,0,Their tails release toxic gas which explodes violently if exposed to flame.,1,62,63,56,57,3,1,57,14,49
+141,62,Kerlupp,6,2,,0,0.3,5.8,0,Their favorite mode of transport is to curl into a wheel shape and roll along the road.,1,65,55,63,64,2,1,60,14,49
+142,63,Raknord,6,3,,1,1,33.6,0,Can use each of their eight legs separately. They hate to be called spiders.,1,69,77,54,50,2,2,67,14,49
+143,64,Flowrwolf,6,2,0,1,0.9,21.1,0,They can run just as quickly either forwards or backwards. Their flowers are a mystery.,1,70,67,72,65,1,1,75,18,60
+144,65,Hoodblink,6,3,2,1,1.2,38,0,"Devious and shifty, they can run quickly when they need to escape from danger.",1,80,60,84,60,1,2,83,20,60
+145,66,Zigzaguar,6,1,0,1,0.5,16.7,0,Their glowing eyes as they run in the dark make them look like a bolt of lightning.,1,84,81,76,65,1,1,98,24,60
+146,67,Seismik,6,3,,2,1.5,345,0,Their resounding cries echo through the land and can even trigger earthquakes.,1,79,64,81,87,3,0,94,24,60
+147,68,Flyptid,6,1,0,2,1.8,117,0,"Pure of heart, they hate conflict, and only show themselves to peaceful people.",1,93,99,77,72,1,0,122,26,69
+148,69,Purrl,6,0,,0,0.4,7.5,0,"Rarely spotted, these monsters are said to bring luck to racers who befriend them.",1,89,91,81,72,1,1,116,24,69
+149,70,Slythe,6,3,1,2,2,124,1,"A legendary monster, which was said to have brought learning to mankind.",1,94,96,82,94,4,0,137,31,120
+150,71,Hairdycat,7,2,0,1,1.3,28.5,0,"Always well-groomed, these monsters do tend to suffer from over-inflated egos.",1,62,74,54,55,1,2,60,14,49
+151,72,Skeldon,7,2,3,1,1.1,10.7,0,"Made up only of bone, they fall apart when hurt. No one knows how they stay alive.",1,67,59,72,53,3,0,64,18,49
+152,73,Cirrus,7,1,0,1,1.6,176,0,These elegant monsters soar through the sky with their seven wings. Can run on land too.,1,73,72,63,65,4,0,76,18,49
+153,74,Ecto,7,2,,1,1,0.1,0,"They appear without warning, usually in the darkness behind the unsuspecting.",1,79,62,71,82,1,2,87,20,60
+154,75,Quercus,7,2,3,2,3,496,0,"Often mistaken for actual trees, these monsters live for a very long time.",1,78,80,82,80,1,0,102,26,69
+155,76,Ironclaw,7,1,,1,0.9,28,0,"When angered, they reshape their steel bodies and expel a poisonous gas.",1,80,73,73,91,0,2,100,24,69
+156,77,Rokard,7,2,3,2,2.9,766,0,"Immovable as a mountain, they crush all in their way with their huge bodies.",1,64,67,82,100,2,0,90,24,60
+157,78,Glimmer,7,1,3,1,1.6,75,0,"They spend almost all their lives in the air, flying on their massive wings.",1,93,82,79,76,2,2,114,31,69
+158,79,Whirlwolf,7,1,,1,2.1,104,0,"When they start to run, they trigger a huge whirlwind which carries them along.",1,92,80,87,82,4,1,118,26,69
+159,80,Furion,7,3,1,2,2.7,283,1,"The fastest of all monsters, they speed along on wings of burning flame.",1,98,92,94,99,0,2,147,34,120
